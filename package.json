@@ -1,0 +1,28 @@
+{
+  "name": "@org/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/jest": "22.7.5",
+    "@nx/js": "22.7.5",
+    "@swc-node/register": "~1.11.1",
+    "@swc/core": "~1.15.5",
+    "@swc/helpers": "~0.5.18",
+    "@swc/jest": "~0.2.38",
+    "@types/jest": "~30.0.0",
+    "@types/node": "20.19.9",
+    "jest": "~30.3.0",
+    "jest-environment-node": "~30.3.0",
+    "jest-util": "~30.3.0",
+    "nx": "22.7.5",
+    "prettier": "^2.6.2",
+    "ts-jest": "^29.4.0",
+    "ts-node": "10.9.1",
+    "tslib": "^2.3.0",
+    "typescript": "~5.9.2"
+  }
+}

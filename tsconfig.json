@@ -1,0 +1,85 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./packages/utils"
+    },
+    {
+      "path": "./packages/pkg-1"
+    },
+    {
+      "path": "./packages/pkg-2"
+    },
+    {
+      "path": "./packages/pkg-3"
+    },
+    {
+      "path": "./packages/pkg-4"
+    },
+    {
+      "path": "./packages/pkg-5"
+    },
+    {
+      "path": "./packages/pkg-6"
+    },
+    {
+      "path": "./packages/pkg-7"
+    },
+    {
+      "path": "./packages/pkg-8"
+    },
+    {
+      "path": "./packages/pkg-9"
+    },
+    {
+      "path": "./packages/pkg-10"
+    },
+    {
+      "path": "./packages/pkg-11"
+    },
+    {
+      "path": "./packages/pkg-12"
+    },
+    {
+      "path": "./packages/pkg-13"
+    },
+    {
+      "path": "./packages/pkg-14"
+    },
+    {
+      "path": "./packages/pkg-15"
+    },
+    {
+      "path": "./packages/pkg-16"
+    },
+    {
+      "path": "./packages/pkg-17"
+    },
+    {
+      "path": "./packages/pkg-18"
+    },
+    {
+      "path": "./packages/pkg-19"
+    },
+    {
+      "path": "./packages/pkg-20"
+    },
+    {
+      "path": "./packages/pkg-21"
+    },
+    {
+      "path": "./packages/pkg-22"
+    },
+    {
+      "path": "./packages/pkg-23"
+    },
+    {
+      "path": "./packages/pkg-24"
+    },
+    {
+      "path": "./packages/pkg-25"
+    }
+  ]
+}
